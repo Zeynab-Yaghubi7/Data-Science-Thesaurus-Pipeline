@@ -7,7 +7,7 @@ Raw bibliometric data often suffer from lexical noise (singular/plural, acronyms
 
 ## Key Features
 - **Python:** Scripts for structural normalization, noise removal, and semantic synonym detection using Sentence Transformers (all-mpnet-base-v2).
-- **R:** Scripts for singular/plural merging, acronym expansion, and fuzzy string matching (Jaro-Winkler).
+- **R:** Scripts for cleaning bibliographic data.
 - **Validation:** Data quality validation scripts ensuring 98.7% precision.
 
 ## Data
